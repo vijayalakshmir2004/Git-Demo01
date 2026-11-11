@@ -27,4 +27,8 @@
 hs_err_pid*
 replay_pid*
 
+Reports/
+logs/
+screenshots/
+
 # End of https://www.toptal.com/developers/gitignore/api/java
