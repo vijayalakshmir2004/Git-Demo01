@@ -2,3 +2,4 @@ Hello Git123.This is the 1st line.
 This is the 2nd line.
 3rd line added in feature-1
 4th line added in local repo.
+5th line added from remote.
